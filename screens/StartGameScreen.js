@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     marginTop: 100,
     padding: 16,
-    backgroundColor: '#4e0329',
+    backgroundColor: '#3b021f',
     // Shadow addition different in android and IOS
     elevation: 5,
     shadowColor: 'black',
@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
     
   },
   buttonContainer: {
-   flex: 1
+    flex: 1
    
   }
 
